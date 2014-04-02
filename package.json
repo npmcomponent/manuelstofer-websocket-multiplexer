@@ -1,15 +1,9 @@
 {
-  "name": "websocket-multiplexer",
-  "version": "0.0.5",
+  "name": "manuelstofer-websocket-multiplexer",
   "description": "Multiple virtual channels over a web socket / SockJS connection",
+  "version": "0.0.5",
+  "keywords": [],
   "main": "src/multiplexer.js",
-  "repository": "",
-  "keywords": [
-    "websocket",
-    "SockJS",
-    "multiplexer",
-    "multiplex"
-  ],
-  "author": "Manuel Stofer",
+  "dependencies": {},
   "license": "MIT"
 }
